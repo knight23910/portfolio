@@ -128,9 +128,9 @@ function lerpColor(a, b, t) {
 
 //for span
 const roles = [
-  ["Web", "Developer"],
-  ["Creative", "Designer"],
-  ["UI", "/", "UX", "Designer"]
+  ["Cyber", "Security"],
+  ["Ethical", "Hacking"],
+  ["Web", "/", "Developer"]
 ];
 
 const colors = [
